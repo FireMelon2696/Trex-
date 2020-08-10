@@ -78,7 +78,7 @@ function draw() {
    //set background to white
   background("white");
   //display score
-  text("Score: "+ count, 500, 50);
+  text("Score: "+ count, 450, 50);
 
   
   if(gameState === PLAY){
